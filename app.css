@@ -74,14 +74,14 @@ header {
 }
 
 
-/* Companies */
+/* Social Media */
 .companies {
     font-weight: 700;
-    color: #545454;
 }
 
 .companyImg img {
     margin-right: 1rem;
+    color: #48FF78;
 }
 
 @media (max-width: 991px) {

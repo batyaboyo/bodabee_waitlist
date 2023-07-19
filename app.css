@@ -25,7 +25,7 @@ header {
 }
 
 .join {
-    background-color: #372865;
+    background-color: #48FF78;
     color: #FFFFFF;
     font-weight: 700;
     padding: 1rem 2rem;
@@ -39,10 +39,10 @@ header {
 /* Hero Section */
 
 .snackbar {
-    background-color: #372865;
+    background-color: #48FF78;
     color: white;
     padding: 0.6rem 0.5rem;
-    border-radius: 999px ;
+    border-radius: 999px;
     font-weight: 300;
     display: inline-block;
     padding: 0.5rem 1.5rem;
@@ -57,7 +57,7 @@ header {
 #banner {
     font-size: 4rem;
     font-weight: 700;
-    color: #372865;
+    color: #48FF78;
 }
 
 .bannerTagline {
@@ -65,7 +65,7 @@ header {
 }
 
 .joinHero {
-    background-color: #372865;
+    background-color: #48FF78;
     color: #FFFFFF;
     font-weight: 700;
     padding: 1.1rem;
@@ -80,7 +80,7 @@ header {
     color: #545454;
 }
 
-.companyImg img{
+.companyImg img {
     margin-right: 1rem;
 }
 
@@ -101,6 +101,3 @@ header {
     }
 
 }
-
-
-

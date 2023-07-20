@@ -15,17 +15,10 @@ header {
     background-size: cover;
 }
 
-/* NavBar */
-
-
-.navbar-nav {
-    float: right;
-    text-align: right;
-}
-
-.nav-item {
-    font-weight: 600;
-    color: #FFFFFF;
+.hero {
+    display: flex;
+    align-items: center;
+    text-align: center;
 }
 
 .join {
@@ -38,18 +31,14 @@ header {
     margin-left: 2rem;
 }
 
-
-
-/* Hero Section */
-
 #brand {
-    font-size: 4rem;
+    font-size: 5rem;
     font-weight: 700;
     color: #48FF78;
 }
 
 .brandTagline {
-    font-size: 1.1rem;
+    font-size: 2rem;
 }
 
 .joinHero {
@@ -59,17 +48,6 @@ header {
     padding: 1.1rem;
     border: 0px;
     border-radius: 5px;
-}
-
-
-/* Social Media */
-.companies {
-    font-weight: 700;
-}
-
-.companyImg img {
-    margin-right: 1rem;
-    color: #48FF78;
 }
 
 @media (max-width: 991px) {

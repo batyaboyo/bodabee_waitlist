@@ -39,21 +39,16 @@ header {
     font-size: 2rem;
 }
 
-.waitlist {
-    display: block;
-    align-items: center; 
-}
-
 @media (max-width: 991px) {
 
     #banner {
-        font-size: 3.5rem;
+        font-size: 3rem;
     }
 }
 
 @media (max-width: 768px) {
     #banner {
-        font-size: 3rem;
+        font-size: 2rem;
     }
 
 }

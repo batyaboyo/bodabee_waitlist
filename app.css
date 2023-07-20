@@ -6,9 +6,13 @@
 
 
 header {
-    margin: 0.8rem;
-    background-color: #F6F9FE;
+    margin: 0;
+    color: #F6F9FE;
     min-height: 100vh;
+    background-image: url("Assets/bg.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 /* NavBar */
@@ -69,7 +73,7 @@ header {
 }
 
 @media (max-width: 991px) {
-    
+
     #banner {
         font-size: 3.5rem;
     }

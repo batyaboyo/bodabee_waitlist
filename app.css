@@ -13,12 +13,10 @@ header {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-}
-
-.hero {
     display: flex;
     align-items: center;
     text-align: center;
+    Justify-content: center;
 }
 
 .join {
@@ -41,13 +39,9 @@ header {
     font-size: 2rem;
 }
 
-.joinHero {
-    background-color: #48FF78;
-    color: #FFFFFF;
-    font-weight: 700;
-    padding: 1.1rem;
-    border: 0px;
-    border-radius: 5px;
+.waitlist {
+    display: block;
+    align-items: center; 
 }
 
 @media (max-width: 991px) {

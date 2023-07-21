@@ -34,19 +34,3 @@ header {
     font-weight: 700;
     font-family: "Montserrat";
 }
-
-/*
-@media (max-width: 991px) {
-
-    #banner {
-        font-size: 3rem;
-    }
-
-}
-
-@media (max-width: 768px) {
-    #banner {
-        font-size: 2rem;
-    }
-
-}

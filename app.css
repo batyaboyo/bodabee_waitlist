@@ -25,11 +25,13 @@ header {
 #brand {
     font-size: 5rem;
     font-weight: 700;
+    font-family: "Hammersmith One";
     color: #48FF78;
 }
 
 .brandTagline {
     font-size: 2rem;
+    font-family: "Montserrat";
 }
 
 @media (max-width: 991px) {

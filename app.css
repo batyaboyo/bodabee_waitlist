@@ -35,18 +35,13 @@ header {
     font-family: "Montserrat";
 }
 
+/*
 @media (max-width: 991px) {
 
     #banner {
         font-size: 3rem;
     }
 
-    .waitlist {
-        display: flex;
-        align-items: center;
-        text-align: center;
-        Justify-content: center;
-    }
 }
 
 @media (max-width: 768px) {

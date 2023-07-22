@@ -2,7 +2,7 @@ header {
     margin: 0;
     color: white;
     min-height: 100vh;
-    background-image: url("Assets/bg.jpeg");
+    background-image: url("Assets/bgg.jpeg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -30,7 +30,7 @@ header {
 }
 
 .brandTagline {
-    margin: 2.5rem;
+    margin:2rem; 
     font-size: 1.7rem;
     font-weight: 700;
     font-family: "Montserrat";

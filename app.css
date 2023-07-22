@@ -1,6 +1,6 @@
 header {
     margin: 0;
-    color: #F6F9FE;
+    color: white;
     min-height: 100vh;
     background-image: url("Assets/bg.jpeg");
     background-position: center;
@@ -14,7 +14,7 @@ header {
 
 .join {
     background-color: #32CD32;
-    color: #FFFFFF;
+    color: white;
     font-weight: 600;
     padding: 0.6rem 1rem;
     border: 0px;
@@ -34,5 +34,5 @@ header {
     font-size: 1.7rem;
     font-weight: 700;
     font-family: "Montserrat";
-    text-shadow: 3px 3px #012;
+    /*text-shadow: 3px 3px #012;*/
 }

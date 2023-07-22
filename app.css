@@ -16,13 +16,13 @@ header {
     background-color: green;
     color: #FFFFFF;
     font-weight: 600;
-    padding: 0.5rem 1rem;
+    padding: 0.6rem 1rem;
     border: 0px;
     border-radius: 3px;
     font-family: "Montserrat";
 }
 
-#brand {
+.brand {
     font-size: 4rem;
     font-weight: 700;
     font-family: "Hammersmith One";
@@ -30,7 +30,7 @@ header {
 }
 
 .brandTagline {
-    margin: 5rem;
+    margin: 2.5rem;
     font-size: 1.7rem;
     font-weight: 700;
     font-family: "Montserrat";

@@ -13,7 +13,7 @@ header {
 }
 
 .join {
-    background-color: #48FF78;
+    background-color: green;
     color: #FFFFFF;
     font-weight: 600;
     padding: 0.5rem 1rem;
@@ -26,12 +26,11 @@ header {
     font-size: 4rem;
     font-weight: 700;
     font-family: "Hammersmith One";
-    color: #48FF78;
+    color: green;
 }
 
 .brandTagline {
-    padding: 1rem;
-    margin: 3rem;
+    margin: 5rem;
     font-size: 1.7rem;
     font-weight: 700;
     font-family: "Montserrat";

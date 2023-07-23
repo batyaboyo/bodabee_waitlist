@@ -24,15 +24,15 @@ header {
 
 .brand {
     font-size: 3.5rem;
-    font-weight: 700;
+    font-weight: 600;
     font-family: "Hammersmith One";
     color: #32CD32;
 }
 
 .brandTagline {
     margin:1rem;
-    font-size: 1.5rem;
-    font-weight: 700;
+    font-size: 1.6rem;
+    font-weight: 600;
     font-family: "Montserrat";
     /*text-shadow: 3px 3px #012;*/
 }

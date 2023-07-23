@@ -28,11 +28,11 @@ header {
     /*text-shadow: 3px 3px #012;*/
 }
 
-a {
-  margin-top: 2rem;
+.join{
+  margin-top: 2.5rem;
 }
 
-.join {
+.button {
     background-color: #32CD32;
     color: white;
     margin:1rem;

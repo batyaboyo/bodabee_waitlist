@@ -12,15 +12,6 @@ header {
     Justify-content: center;
 }
 
-.join {
-    background-color: #32CD32;
-    color: white;
-    font-weight: 600;
-    padding: 0.6rem 1rem;
-    border: 0px;
-    border-radius: 3px;
-    font-family: "Montserrat";
-}
 
 .brand {
     font-size: 4rem;
@@ -31,8 +22,24 @@ header {
 
 .brandTagline {
     margin:1rem;
-    font-size: 1.8rem;
+    font-size: 1.7rem;
     font-weight: 600;
     font-family: "Montserrat";
     /*text-shadow: 3px 3px #012;*/
+}
+
+a {
+  margin-top: 2rem;
+}
+
+.join {
+    background-color: #32CD32;
+    color: white;
+    margin:1rem;
+    font-size: 1.2rem;
+    font-weight: 600;
+    padding: 0.6rem 1rem;
+    border: 0px;
+    border-radius: 3px;
+    font-family: "Montserrat";
 }
